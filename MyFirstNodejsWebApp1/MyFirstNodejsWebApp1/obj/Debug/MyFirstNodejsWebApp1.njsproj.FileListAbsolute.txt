@@ -1,0 +1,2 @@
+C:\Dev\Angular\MyFirstNodejsWebApp1\MyFirstNodejsWebApp1\obj\Debug\MyFirstNodejsWebApp1.njsprojAssemblyReference.cache
+C:\Dev\Angular\MyFirstNodejsWebApp1\MyFirstNodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
